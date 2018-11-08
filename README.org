@@ -1,0 +1,3 @@
+* Run liquibase scripts with maven
+
+This is a maven POM file that contains liquibase config that will run a liquibase changelog and against a database on a database server.
