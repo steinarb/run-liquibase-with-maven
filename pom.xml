@@ -14,7 +14,7 @@
 
     <properties>
         <liquibase.version>3.6.2</liquibase.version>
-        <postgresql.version>9.4.1211.jre7</postgresql.version>
+        <postgresql.version>42.3.6</postgresql.version>
         <karaf.db.password>karaf</karaf.db.password>
     </properties>
 
